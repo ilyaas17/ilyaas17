@@ -3,7 +3,7 @@
 - 🧑🏽‍💻 I'm most experienced with MERN Stack for web devpt.. Other than that, Java and Python as well.
 - 🌱 I’m currently learning Data Structures & Alogorithms, with focus on learning AIML in the future.
 - 💞️ I’m looking to collaborate on web development projects. Opensource or otherwise. 
-- 📫 You can reach me out on my (LinkedIn)[https://www.linkedin.com/in/utkarsh17official/] profile.
+- 📫 You can reach out to me on my [LinkedIn](https://www.linkedin.com/in/utkarsh17official/).
 - 😄 Pronouns: He/him
 
 <!---
